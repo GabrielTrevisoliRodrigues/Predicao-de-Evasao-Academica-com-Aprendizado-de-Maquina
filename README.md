@@ -98,9 +98,10 @@ O projeto também contempla análise de **interpretabilidade**, reforçando a tr
 
 ## ♻️ Observação sobre arquivos gerados
 
-Durante a execução dos notebooks, arquivos intermediários — como divisões do dataset em conjuntos de treino e teste, bem como resultados auxiliares das modelagens — são **gerados localmente no ambiente do usuário**.
-
-Esses arquivos não fazem parte do repositório, pois podem ser reproduzidos integralmente a partir do código disponibilizado, mantendo o projeto mais limpo, organizado e alinhado às boas práticas de versionamento.
+Durante a execução dos notebooks, arquivos intermediários — como divisões do dataset em conjuntos de treino e teste, bem como resultados auxiliares
+das modelagens — são **gerados localmente no ambiente do usuário**.
+Esses arquivos não fazem parte do repositório, pois podem ser reproduzidos integralmente a partir do código disponibilizado, mantendo o projeto mais limpo,
+organizado e alinhado às boas práticas de versionamento.
 
 
 
