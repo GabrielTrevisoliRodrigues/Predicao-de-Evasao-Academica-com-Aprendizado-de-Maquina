@@ -94,7 +94,7 @@ O projeto também contempla análise de **interpretabilidade**, reforçando a tr
 ├── Dia 2 - EDA e Pré-processamento.ipynb
 ├── Dia 3 - Modelagem e Baseline.ipynb
 ├── Dia 4 – Otimização e Interpretação.ipynb
-├── resultados_modelagem.excel
+├── resultados_modelagem.csv
 
 ## ♻️ Observação sobre arquivos gerados
 
